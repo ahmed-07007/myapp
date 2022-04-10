@@ -1,2 +1,3 @@
-#this is myapp project
-this is test
+# hmo0dy - software Engineering
+## Course project
+this is a testing project for demo.
